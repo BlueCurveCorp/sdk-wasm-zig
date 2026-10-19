@@ -1,0 +1,63 @@
+BLUECURVE PROPRIETARY SDK LICENSE
+Version 1.0
+
+Copyright (c) 2026 BlueCurve Corp. All rights reserved.
+
+Licensor: BlueCurve Corp, 28 Geary St STE 650, San Francisco,
+California 94108, United States. https://bluecurve.io/
+
+1. Scope and acceptance
+
+This license applies to the BlueCurve SDK and its accompanying macros,
+documentation, and examples (the "SDK"). By using the SDK, you accept this
+license. If you act for an organization, you must have authority to accept
+this license on its behalf.
+
+2. Limited license
+
+BlueCurve Corp grants you a non-exclusive, worldwide, royalty-free license
+to download, copy, use, and modify the SDK solely to develop, test, maintain,
+and support plugins that integrate with BlueCurve products or services.
+You may distribute those plugins, including SDK code incorporated into
+their compiled binaries, to customers and other users of BlueCurve.
+Retain this copyright notice and license in copies of the SDK and provide
+them with plugins containing SDK code, for example in third-party notices.
+
+3. Restrictions and ownership
+
+You may not distribute or sublicense the SDK, or modified SDK source code,
+as a standalone product, source package, or development kit without prior
+written permission from BlueCurve Corp. You may not use the SDK for
+purposes outside section 2 or remove proprietary notices. BlueCurve Corp
+and its licensors retain all rights in the SDK not expressly granted here.
+You retain your rights in independently developed plugin code. No trademark
+rights are granted. This is proprietary software, not an open-source license.
+Access to BlueCurve products or services remains subject to their separate
+applicable agreements; this license does not grant access to those services.
+
+4. Third-party components
+
+Third-party components retain their own licenses and notices. This license
+does not restrict rights granted to you under those separate licenses.
+
+5. Termination
+
+Your rights under this license terminate if you materially breach its terms
+and do not remedy the breach within 30 days after written notice from
+BlueCurve Corp. On termination, stop using and distributing the SDK and
+delete your SDK copies, except copies retained as required by law.
+
+6. Disclaimer and limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SDK IS PROVIDED
+"AS IS", WITHOUT WARRANTIES OF ANY KIND, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. BLUECURVE CORP
+AND ITS LICENSORS ARE NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOSS OF DATA, PROFITS, OR BUSINESS,
+ARISING FROM USE OF THE SDK. NOTHING IN THIS LICENSE EXCLUDES LIABILITY
+OR RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED.
+
+7. Additional permissions
+
+Permissions beyond this license require a separate written agreement with
+BlueCurve Corp. Contact BlueCurve Corp through https://bluecurve.io/.

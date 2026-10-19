@@ -1,0 +1,12 @@
+.{
+    .name = .bluecurve,
+    .version = "0.1.0-4",
+    .fingerprint = 0x640ac3b76c716912,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "LICENSE",
+        "src",
+    },
+}
